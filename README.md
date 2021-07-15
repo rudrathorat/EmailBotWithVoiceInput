@@ -22,4 +22,4 @@ Make sure to turn on "Less Secure App Access" in your Google Account
 3. Turn on "Less Secure App Access"
 
 
-Created in collaboration with my peer @rudrakshi28
+Created in collaboration with my peer [@rudrakshi28](https://github.com/rudrakshi28).
