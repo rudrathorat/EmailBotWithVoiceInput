@@ -3,7 +3,6 @@
 Send emails just by speaking — no typing needed!  
 This Python project uses voice commands to help you compose and send emails hands-free using speech recognition and text-to-speech.
 
----
 
 ## 🎯 Features
 
@@ -12,7 +11,7 @@ This Python project uses voice commands to help you compose and send emails hand
 - 🗣 Text-to-speech prompts for interaction  
 - 🚀 Instant email sending via voice
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -21,7 +20,7 @@ This Python project uses voice commands to help you compose and send emails hand
 - `smtplib` – Sending emails through Gmail  
 - `PyAudio` – Microphone support
 
----
+
 
 ## 📦 Installation
 
@@ -38,7 +37,7 @@ pip install pipwin
 pipwin install pyaudio
 ```
 
----
+
 
 ## ⚙️ Setup Instructions
 
@@ -50,11 +49,11 @@ pipwin install pyaudio
 ```python
 email = 'youremail@gmail.com'
 password = 'yourpassword'
-```
+
 
 🔐 For better security, consider using [Gmail App Passwords](https://support.google.com/accounts/answer/185833?hl=en) or OAuth2.
 
----
+
 
 ## 🚀 How to Use
 
@@ -72,14 +71,14 @@ python main.py
 
 ✅ Email is sent!
 
----
+
 
 ## 👥 Contributors
 
 - [@rudrathorat](https://github.com/rudrathorat)  
 - [@rudrakshi28](https://github.com/rudrakshi28)
 
----
+
 
 ## 📬 Contact
 
